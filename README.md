@@ -1,1 +1,1 @@
-# sahfikapemrogramandasar
+print ("hello word")
